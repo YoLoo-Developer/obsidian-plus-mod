@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "obsidian:block/obsidian_plate" },
+    "powered=true": { "model": "obsidian:block/obsidian_plate_down" }
+  }
+}

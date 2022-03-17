@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iNi",
+    " / ",
+    " / "
+  ],
+  "key": {
+    "i": {
+      "item": "obsidian:obsidian_ingot"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "/": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "obsidian:obsidian_pickaxe",
+    "count": 1
+  }
+}

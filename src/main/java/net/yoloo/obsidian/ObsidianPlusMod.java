@@ -1,6 +1,8 @@
 package net.yoloo.obsidian;
 
 import net.fabricmc.api.ModInitializer;
+import net.yoloo.obsidian.block.ModBlocks;
+import net.yoloo.obsidian.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +13,7 @@ public class ObsidianPlusMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

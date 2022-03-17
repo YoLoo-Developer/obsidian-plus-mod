@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "obsidian:obsidian_stairs",
+    "obsidian:obsidian_slab",
+    "obsidian:obsidian_button",
+    "obsidian:obsidian_plate",
+    "obsidian:speed_block",
+    "obsidian:jump_block",
+    "minecraft:obsidian"
+  ]
+}

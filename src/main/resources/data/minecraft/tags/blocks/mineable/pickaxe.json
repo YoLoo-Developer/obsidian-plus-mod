@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "obsidian:deeplstate_obsidian_ore",
+    "obsidian:obsidian_ore",
+    "obsidian:speed_block",
+    "obsidian:jump_block"
+  ]
+}

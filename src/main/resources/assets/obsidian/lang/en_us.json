@@ -1,0 +1,22 @@
+{
+  "item.obsidian.obsidian_raw": "Raw Obsidian",
+  "item.obsidian.obsidian_ingot": "Obsidian Ingot",
+  "item.obsidian.obsidian_nugget": "Obsidian Nugget",
+  "item.obsidian.obsidian_radar": "Obsidian Radar",
+  "item.obsidian.obsidian_pickaxe": "Obsidian Pickaxe",
+
+  "block.obsidian.deepslate_obsidian_ore": "Deepslate Obsidian Ore",
+  "block.obsidian.obsidian_ore": "Obsidian Ore",
+  "block.obsidian.speed_block": "Obsidian Speed Block",
+  "block.obsidian.jump_block": "Obsidian Jump Block",
+  "block.obsidian.obsidian_stairs": "Obsidian Stairs",
+  "block.obsidian.obsidian_slab": "Obsidian Slab",
+  "block.obsidian.obsidian_button": "Obsidian Button",
+  "block.obsidian.obsidian_plate": "Obsidian Pressure Plate",
+
+  "itemGroup.obsidian.obsidian": "Obsidian Plus",
+
+  "tooltip.obsidian.radar_shift": "Click a Block and discover valuables ores",
+  "tooltip.obsidian.radar": "Hold §eSHIFT§r for more Information!",
+  "tooltip.obsidian.pickaxe": "Only destroys obsidian!"
+}
